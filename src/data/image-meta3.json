@@ -1,0 +1,57 @@
+{
+ "book": {
+  "w": 960,
+  "h": 1200,
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoNABAAA4BaJYgCdAECmMBXEHHfwAD+4khbxwNf58F7DFOavoNxG1zbZbsz4Oro6PrNUCozlZKRkV4e99SVUfNKeLeSaVL0WHAAAA=="
+ },
+ "hero": {
+  "w": 960,
+  "h": 1200,
+  "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoNABAAA4BaJYwCdACzHnwAAPuSmPZ2RVIf7wIBKHulS8g/SofXs1SMRxwCbENOBs7zj/yLA0GtX4K0TuaafFTo/LUy6kQAAAA="
+ },
+ "services": {
+  "w": 825,
+  "h": 1100,
+  "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMABAAA4BaJYwCdADdR4yv+GAA8AtyHCZqqMzAECKihwt5hbTJx84jYQP2S7tWlpIMsuEeHD0A6N3omIQAAA=="
+ },
+ "svc-bridal-makeup": {
+  "w": 1100,
+  "h": 1100,
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMAAwAA4BaJQBOgBuuNRRAayAA4CTOyK0ABkQ0vonxySKg9JVIGFa7t/T2HzMwzFW1M/T8VyxpfGeohdwf+hkAAAA="
+ },
+ "svc-chignon": {
+  "w": 1100,
+  "h": 1100,
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMAAwAA4BaJQBOgB9i0k4Ng+pgAP4LTw5tCDiaW/e2VRVQ5bgUL1K8n3FjzoULPrLIomrDZepMoQJkkOab+bSILWqIzQAA"
+ },
+ "svc-facial": {
+  "w": 1100,
+  "h": 1100,
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoMAAwAA4BaJaACdAED+JrdmhheAAD9PRpxK0njsn9XOVa6boHI8WE4HbLsMyS2I2Dh1h3nF96T51yk+SQmT2reJtAgYPTQuFQAAA=="
+ },
+ "svc-hair-color": {
+  "w": 1100,
+  "h": 1100,
+  "blur": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACQAQCdASoMAAwAA4BaJZgCdADViGAA/SEi566EVgEucZw/PBEeenL7cUhFaD9HMy/dKsOUcXDVphRUkfAAAA=="
+ },
+ "svc-keratin": {
+  "w": 1100,
+  "h": 1100,
+  "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAwAA4BaJQBOgCHep1cdZTwA/s1O9hrafMGGoZl2a3FxfujrPurQy4YspeWo06MhB3xcMtvMrSaRIAAAAA=="
+ },
+ "svc-lash": {
+  "w": 1100,
+  "h": 1100,
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMAAwAA4BaJaACdADcWw8fli0AAPffBtUkt9C99mTXX4NQgmUmXSzTx2N3ibBs9+HWlfRnbtB2DvDlsv1orwFqfTMb4AAA"
+ },
+ "svc-makeup": {
+  "w": 1100,
+  "h": 1100,
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMAAwAA4BaJYgCdAEWbh/rwAD+WBmB+tX5LstU4T2ei7YJRPx1+nbgsXW2ruLetkHCk3VU7kS0YTSMAa24O/GQAAA="
+ },
+ "svc-nails": {
+  "w": 1100,
+  "h": 1100,
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoMAAwAA4BaJaACdAEesMUDPWeAAP6ZK+qR6txh5jd3qqKpN06//As8dp03va1cEJbvREUIjBJ/guMo+2LFqZ8YTVgXeBJW2Y4AAA=="
+ }
+}
